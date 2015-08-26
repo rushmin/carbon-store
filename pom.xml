@@ -24,9 +24,9 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/wso2/carbon-store.git</url>
-    <developerConnection>scm:git:https://github.com/wso2/carbon-store.git</developerConnection>
-    <connection>scm:git:https://github.com/wso2/carbon-store.git</connection>
+    <url>https://github.com/rushmin/carbon-store.git</url>
+    <developerConnection>scm:git:https://github.com/rushmin/carbon-store.git</developerConnection>
+    <connection>scm:git:https://github.com/rushmin/carbon-store.git</connection>
     <tag>HEAD</tag>
   </scm>
 
